@@ -62,6 +62,23 @@
               "actividad": "Explica el protocolo PAS en caso de emergencia."
             }
           ]
+        },
+        {
+          "nombre_semestre": "Semestre 2",
+          "lecciones": [
+            {
+              "titulo": "Signos Vitales2",
+              "video": "https://www.youtube.com/embed/EXAMPLE",
+              "pdf": "https://docs.google.com/file/d/EXAMPLE/preview",
+              "actividad": "Define los valores normales de la presión arterial y frecuencia cardíaca."
+            },
+            {
+              "titulo": "Primeros Auxilios2",
+              "video": "https://www.youtube.com/embed/EXAMPLE",
+              "pdf": "https://docs.google.com/file/d/EXAMPLE/preview",
+              "actividad": "Explica el protocolo PAS en caso de emergencia."
+            }
+          ]
         }
       ]
     }
