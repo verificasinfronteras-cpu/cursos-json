@@ -4,18 +4,23 @@
       "id": "informatica",
       "nombre": "Técnico en Informática",
       "descripcion": "Aprende mantenimiento de PC, redes y programación básica.",
-      "lecciones": [
+      "semestres": [
         {
-          "titulo": "Introducción al Hardware",
-          "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
-          "pdf": "https://docs.google.com/file/d/EXAMPLE/preview",
-          "actividad": "Describe las 3 partes de una computadora y sus funciones."
-        },
-        {
-          "titulo": "Sistemas Operativos",
-          "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
-          "pdf": "https://docs.google.com/file/d/EXAMPLE/preview",
-          "actividad": "Enumera 3 diferencias entre Windows y Linux."
+          "nombre_semestre": "Semestre 1",
+          "lecciones": [
+            {
+              "titulo": "Introducción al Hardware",
+              "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+              "pdf": "https://docs.google.com/file/d/EXAMPLE/preview",
+              "actividad": "Describe las 3 partes de una computadora y sus funciones."
+            },
+            {
+              "titulo": "Sistemas Operativos",
+              "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+              "pdf": "https://docs.google.com/file/d/EXAMPLE/preview",
+              "actividad": "Enumera 3 diferencias entre Windows y Linux."
+            }
+          ]
         }
       ]
     },
@@ -23,18 +28,23 @@
       "id": "enfermeria",
       "nombre": "Téc. en Auxiliar en Enfermería",
       "descripcion": "Formación integral en cuidado del paciente y protocolos hospitalarios.",
-      "lecciones": [
+      "semestres": [
         {
-          "titulo": "Signos Vitales",
-          "video": "https://www.youtube.com/embed/EXAMPLE",
-          "pdf": "https://docs.google.com/file/d/EXAMPLE/preview",
-          "actividad": "Define los valores normales de la presión arterial y frecuencia cardíaca."
-        },
-        {
-          "titulo": "Primeros Auxilios",
-          "video": "https://www.youtube.com/embed/EXAMPLE",
-          "pdf": "https://docs.google.com/file/d/EXAMPLE/preview",
-          "actividad": "Explica el protocolo PAS en caso de emergencia."
+          "nombre_semestre": "Semestre 1",
+          "lecciones": [
+            {
+              "titulo": "Signos Vitales",
+              "video": "https://www.youtube.com/embed/EXAMPLE",
+              "pdf": "https://docs.google.com/file/d/EXAMPLE/preview",
+              "actividad": "Define los valores normales de la presión arterial y frecuencia cardíaca."
+            },
+            {
+              "titulo": "Primeros Auxilios",
+              "video": "https://www.youtube.com/embed/EXAMPLE",
+              "pdf": "https://docs.google.com/file/d/EXAMPLE/preview",
+              "actividad": "Explica el protocolo PAS en caso de emergencia."
+            }
+          ]
         }
       ]
     }
