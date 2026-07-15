@@ -21,17 +21,6 @@
               "actividad": "Enumera 3 diferencias entre Windows y Linux."
             }
           ]
-        },
-        {
-          "nombre_semestre": "Semestre 2",
-          "lecciones": [
-            {
-              "titulo": "Redes Avanzadas",
-              "video": "https://www.youtube.com/embed/EXAMPLE",
-              "pdf": "https://docs.google.com/file/d/EXAMPLE/preview",
-              "actividad": "Configura una red local básica."
-            }
-          ]
         }
       ]
     },
