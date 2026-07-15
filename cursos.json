@@ -20,6 +20,21 @@
               "pdf": "https://docs.google.com/file/d/EXAMPLE/preview",
               "actividad": "Enumera 3 diferencias entre Windows y Linux."
             }
+            {
+          "nombre_semestre": "Semestre 2",
+          "lecciones": [
+            {
+              "titulo": "Introducción al Hardware",
+              "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+              "pdf": "https://docs.google.com/file/d/EXAMPLE/preview",
+              "actividad": "Describe las 3 partes de una computadora y sus funciones."
+            },
+            {
+              "titulo": "Sistemas Operativos",
+              "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+              "pdf": "https://docs.google.com/file/d/EXAMPLE/preview",
+              "actividad": "Enumera 3 diferencias entre Windows y Linux."
+            }
           ]
         }
       ]
