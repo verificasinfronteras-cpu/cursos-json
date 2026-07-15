@@ -10,13 +10,13 @@
       "lecciones": [
         {
           "titulo": "Introducción al Hardware",
-          "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "video": "https://www.youtube.com/embed/M-BniuLFTkE",
           "pdf": "https://docs.google.com/file/d/EXAMPLE/preview",
           "actividad": "Describe las 3 partes de una computadora y sus funciones."
         },
         {
           "titulo": "Sistemas Operativos",
-          "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "video": "https://www.youtube.com/embed/M-BniuLFTkE",
           "pdf": "https://docs.google.com/file/d/EXAMPLE/preview",
           "actividad": "Enumera 3 diferencias entre Windows y Linux."
         }
@@ -27,13 +27,13 @@
       "lecciones": [
         {
           "titulo": "Introducción al Hardware 2",
-          "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "video": "https://www.youtube.com/embed/M-BniuLFTkE",
           "pdf": "https://docs.google.com/file/d/EXAMPLE/preview",
           "actividad": "Describe las 3 partes de una computadora y sus funciones."
         },
         {
           "titulo": "Sistemas Operativos 2",
-          "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "video": "https://www.youtube.com/embed/M-BniuLFTkE",
           "pdf": "https://docs.google.com/file/d/EXAMPLE/preview",
           "actividad": "Enumera 3 diferencias entre Windows y Linux."
         }
@@ -51,14 +51,14 @@
           "lecciones": [
             {
               "titulo": "Signos Vitales",
-              "video": "https://www.youtube.com/embed/EXAMPLE",
-              "pdf": "https://docs.google.com/file/d/EXAMPLE/preview",
+              "video": "https://www.youtube.com/embed/M-BniuLFTkE",
+              "pdf": "https://drive.google.com/file/d/16QL4ASNvyWrWx4_9JbJoTwB60lCCZ186/preview",
               "actividad": "Define los valores normales de la presión arterial y frecuencia cardíaca."
             },
             {
               "titulo": "Primeros Auxilios",
-              "video": "https://www.youtube.com/embed/EXAMPLE",
-              "pdf": "https://docs.google.com/file/d/EXAMPLE/preview",
+              "video": "https://www.youtube.com/embed/M-BniuLFTkE",
+              "pdf": "https://drive.google.com/file/d/16QL4ASNvyWrWx4_9JbJoTwB60lCCZ186/preview",
               "actividad": "Explica el protocolo PAS en caso de emergencia."
             }
           ]
@@ -68,14 +68,14 @@
           "lecciones": [
             {
               "titulo": "Signos Vitales2",
-              "video": "https://www.youtube.com/embed/EXAMPLE",
-              "pdf": "https://docs.google.com/file/d/EXAMPLE/preview",
+              "video": "https://www.youtube.com/embed/M-BniuLFTkE",
+              "pdf": "https://drive.google.com/file/d/16QL4ASNvyWrWx4_9JbJoTwB60lCCZ186/preview",
               "actividad": "Define los valores normales de la presión arterial y frecuencia cardíaca."
             },
             {
               "titulo": "Primeros Auxilios2",
-              "video": "https://www.youtube.com/embed/EXAMPLE",
-              "pdf": "https://docs.google.com/file/d/EXAMPLE/preview",
+              "video": "https://www.youtube.com/embed/M-BniuLFTkE",
+              "pdf": "https://drive.google.com/file/d/16QL4ASNvyWrWx4_9JbJoTwB60lCCZ186/preview",
               "actividad": "Explica el protocolo PAS en caso de emergencia."
             }
           ]
