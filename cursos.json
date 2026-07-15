@@ -20,7 +20,8 @@
               "pdf": "https://docs.google.com/file/d/EXAMPLE/preview",
               "actividad": "Enumera 3 diferencias entre Windows y Linux."
             }
-            {
+          "semestres": [
+        {
           "nombre_semestre": "Semestre 2",
           "lecciones": [
             {
