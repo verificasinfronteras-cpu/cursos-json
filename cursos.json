@@ -1,86 +1,67 @@
 {
   "carrerastecnicas": [
     {
-  "id": "informatica",
-  "nombre": "Técnico en Informática",
-  "descripcion": "Aprende mantenimiento de PC, redes y programación básica.",
-  "semestres": [
+  "carrerastecnicas": [
     {
-      "nombre_semestre": "Semestre 1",
-      "lecciones": [
-        {
-          "titulo": "Introducción al Hardware",
-          "video": "https://www.youtube.com/embed/M-BniuLFTkE",
-          "pdf": "https://docs.google.com/file/d/EXAMPLE/preview",
-          "actividad": "Describe las 3 partes de una computadora y sus funciones."
-        },
-        {
-          "titulo": "Sistemas Operativos",
-          "video": "https://www.youtube.com/embed/M-BniuLFTkE",
-          "pdf": "https://docs.google.com/file/d/EXAMPLE/preview",
-          "actividad": "Enumera 3 diferencias entre Windows y Linux."
-        }
+      "id": "enfermeria",
+      "nombre": "Auxiliar en Enfermería",
+      "descripcion": "Cuidado básico y asistencia hospitalaria.",
+      "semestres": [
+        { "nombre_semestre": "Semestre 1", "lecciones": [ { "titulo": "ENF1.1", "video": "LINK", "pdf": "LINK", "actividad": "ACT1" }, { "titulo": "ENF1.2", "video": "LINK", "pdf": "LINK", "actividad": "ACT2" }, { "titulo": "ENF1.3", "video": "LINK", "pdf": "LINK", "actividad": "ACT3" } ] },
+        { "nombre_semestre": "Semestre 2", "lecciones": [ { "titulo": "ENF2.1", "video": "LINK", "pdf": "LINK", "actividad": "ACT1" }, { "titulo": "ENF2.2", "video": "LINK", "pdf": "LINK", "actividad": "ACT2" }, { "titulo": "ENF2.3", "video": "LINK", "pdf": "LINK", "actividad": "ACT3" } ] },
+        { "nombre_semestre": "Semestre 3", "lecciones": [ { "titulo": "ENF3.1", "video": "LINK", "pdf": "LINK", "actividad": "ACT1" }, { "titulo": "ENF3.2", "video": "LINK", "pdf": "LINK", "actividad": "ACT2" }, { "titulo": "ENF3.3", "video": "LINK", "pdf": "LINK", "actividad": "ACT3" } ] }
       ]
     },
     {
-      "nombre_semestre": "Semestre 2",
-      "lecciones": [
-        {
-          "titulo": "Introducción al Hardware 2",
-          "video": "https://www.youtube.com/embed/M-BniuLFTkE",
-          "pdf": "https://docs.google.com/file/d/EXAMPLE/preview",
-          "actividad": "Describe las 3 partes de una computadora y sus funciones."
-        },
-        {
-          "titulo": "Sistemas Operativos 2",
-          "video": "https://www.youtube.com/embed/M-BniuLFTkE",
-          "pdf": "https://docs.google.com/file/d/EXAMPLE/preview",
-          "actividad": "Enumera 3 diferencias entre Windows y Linux."
-        }
+      "id": "farmaceuticos",
+      "nombre": "Auxiliar en Servicios Farmacéuticos",
+      "descripcion": "Gestión y dispensación de medicamentos.",
+      "semestres": [
+        { "nombre_semestre": "Semestre 1", "lecciones": [ { "titulo": "FAR1.1", "video": "LINK", "pdf": "LINK", "actividad": "ACT1" }, { "titulo": "FAR1.2", "video": "LINK", "pdf": "LINK", "actividad": "ACT2" }, { "titulo": "FAR1.3", "video": "LINK", "pdf": "LINK", "actividad": "ACT3" } ] },
+        { "nombre_semestre": "Semestre 2", "lecciones": [ { "titulo": "FAR2.1", "video": "LINK", "pdf": "LINK", "actividad": "ACT1" }, { "titulo": "FAR2.2", "video": "LINK", "pdf": "LINK", "actividad": "ACT2" }, { "titulo": "FAR2.3", "video": "LINK", "pdf": "LINK", "actividad": "ACT3" } ] },
+        { "nombre_semestre": "Semestre 3", "lecciones": [ { "titulo": "FAR3.1", "video": "LINK", "pdf": "LINK", "actividad": "ACT1" }, { "titulo": "FAR3.2", "video": "LINK", "pdf": "LINK", "actividad": "ACT2" }, { "titulo": "FAR3.3", "video": "LINK", "pdf": "LINK", "actividad": "ACT3" } ] }
+      ]
+    },
+    {
+      "id": "salud_oral",
+      "nombre": "Auxiliar en Salud Oral",
+      "descripcion": "Asistencia odontológica y prevención.",
+      "semestres": [
+        { "nombre_semestre": "Semestre 1", "lecciones": [ { "titulo": "SAL1.1", "video": "LINK", "pdf": "LINK", "actividad": "ACT1" }, { "titulo": "SAL1.2", "video": "LINK", "pdf": "LINK", "actividad": "ACT2" }, { "titulo": "SAL1.3", "video": "LINK", "pdf": "LINK", "actividad": "ACT3" } ] },
+        { "nombre_semestre": "Semestre 2", "lecciones": [ { "titulo": "SAL2.1", "video": "LINK", "pdf": "LINK", "actividad": "ACT1" }, { "titulo": "SAL2.2", "video": "LINK", "pdf": "LINK", "actividad": "ACT2" }, { "titulo": "SAL2.3", "video": "LINK", "pdf": "LINK", "actividad": "ACT3" } ] },
+        { "nombre_semestre": "Semestre 3", "lecciones": [ { "titulo": "SAL3.1", "video": "LINK", "pdf": "LINK", "actividad": "ACT1" }, { "titulo": "SAL3.2", "video": "LINK", "pdf": "LINK", "actividad": "ACT2" }, { "titulo": "SAL3.3", "video": "LINK", "pdf": "LINK", "actividad": "ACT3" } ] }
+      ]
+    },
+    {
+      "id": "admin_salud",
+      "nombre": "Auxiliar Administrativo en Salud",
+      "descripcion": "Gestión administrativa de servicios médicos.",
+      "semestres": [
+        { "nombre_semestre": "Semestre 1", "lecciones": [ { "titulo": "ADS1.1", "video": "LINK", "pdf": "LINK", "actividad": "ACT1" }, { "titulo": "ADS1.2", "video": "LINK", "pdf": "LINK", "actividad": "ACT2" }, { "titulo": "ADS1.3", "video": "LINK", "pdf": "LINK", "actividad": "ACT3" } ] },
+        { "nombre_semestre": "Semestre 2", "lecciones": [ { "titulo": "ADS2.1", "video": "LINK", "pdf": "LINK", "actividad": "ACT1" }, { "titulo": "ADS2.2", "video": "LINK", "pdf": "LINK", "actividad": "ACT2" }, { "titulo": "ADS2.3", "video": "LINK", "pdf": "LINK", "actividad": "ACT3" } ] },
+        { "nombre_semestre": "Semestre 3", "lecciones": [ { "titulo": "ADS3.1", "video": "LINK", "pdf": "LINK", "actividad": "ACT1" }, { "titulo": "ADS3.2", "video": "LINK", "pdf": "LINK", "actividad": "ACT2" }, { "titulo": "ADS3.3", "video": "LINK", "pdf": "LINK", "actividad": "ACT3" } ] }
+      ]
+    },
+    {
+      "id": "geriatrico",
+      "nombre": "Auxiliar en Cuidado de Hogar Geriátrico",
+      "descripcion": "Atención especializada al adulto mayor.",
+      "semestres": [
+        { "nombre_semestre": "Semestre 1", "lecciones": [ { "titulo": "GER1.1", "video": "LINK", "pdf": "LINK", "actividad": "ACT1" }, { "titulo": "GER1.2", "video": "LINK", "pdf": "LINK", "actividad": "ACT2" }, { "titulo": "GER1.3", "video": "LINK", "pdf": "LINK", "actividad": "ACT3" } ] },
+        { "nombre_semestre": "Semestre 2", "lecciones": [ { "titulo": "GER2.1", "video": "LINK", "pdf": "LINK", "actividad": "ACT1" }, { "titulo": "GER2.2", "video": "LINK", "pdf": "LINK", "actividad": "ACT2" }, { "titulo": "GER2.3", "video": "LINK", "pdf": "LINK", "actividad": "ACT3" } ] },
+        { "nombre_semestre": "Semestre 3", "lecciones": [ { "titulo": "GER3.1", "video": "LINK", "pdf": "LINK", "actividad": "ACT1" }, { "titulo": "GER3.2", "video": "LINK", "pdf": "LINK", "actividad": "ACT2" }, { "titulo": "GER3.3", "video": "LINK", "pdf": "LINK", "actividad": "ACT3" } ] }
+      ]
+    },
+    {
+      "id": "cosmetologia",
+      "nombre": "Técnico en Cosmetología y Estética",
+      "descripcion": "Tratamientos de belleza y cuidado facial/corporal.",
+      "semestres": [
+        { "nombre_semestre": "Semestre 1", "lecciones": [ { "titulo": "COS1.1", "video": "LINK", "pdf": "LINK", "actividad": "ACT1" }, { "titulo": "COS1.2", "video": "LINK", "pdf": "LINK", "actividad": "ACT2" }, { "titulo": "COS1.3", "video": "LINK", "pdf": "LINK", "actividad": "ACT3" } ] },
+        { "nombre_semestre": "Semestre 2", "lecciones": [ { "titulo": "COS2.1", "video": "LINK", "pdf": "LINK", "actividad": "ACT1" }, { "titulo": "COS2.2", "video": "LINK", "pdf": "LINK", "actividad": "ACT2" }, { "titulo": "COS2.3", "video": "LINK", "pdf": "LINK", "actividad": "ACT3" } ] },
+        { "nombre_semestre": "Semestre 3", "lecciones": [ { "titulo": "COS3.1", "video": "LINK", "pdf": "LINK", "actividad": "ACT1" }, { "titulo": "COS3.2", "video": "LINK", "pdf": "LINK", "actividad": "ACT2" }, { "titulo": "COS3.3", "video": "LINK", "pdf": "LINK", "actividad": "ACT3" } ] }
       ]
     }
-  ]
-},
-    {
-      "id": "enfermeria",
-      "nombre": "Téc. en Auxiliar en Enfermería",
-      "descripcion": "Formación integral en cuidado del paciente y protocolos hospitalarios.",
-      "semestres": [
-        {
-          "nombre_semestre": "Semestre 1",
-          "lecciones": [
-            {
-              "titulo": "Signos Vitales",
-              "video": "https://www.youtube.com/embed/M-BniuLFTkE",
-              "pdf": "https://drive.google.com/file/d/16QL4ASNvyWrWx4_9JbJoTwB60lCCZ186/preview",
-              "actividad": "Define los valores normales de la presión arterial y frecuencia cardíaca."
-            },
-            {
-              "titulo": "Primeros Auxilios",
-              "video": "https://www.youtube.com/embed/M-BniuLFTkE",
-              "pdf": "https://drive.google.com/file/d/16QL4ASNvyWrWx4_9JbJoTwB60lCCZ186/preview",
-              "actividad": "Explica el protocolo PAS en caso de emergencia."
-            }
-          ]
-        },
-        {
-          "nombre_semestre": "Semestre 2",
-          "lecciones": [
-            {
-              "titulo": "Signos Vitales2",
-              "video": "https://www.youtube.com/embed/M-BniuLFTkE",
-              "pdf": "https://drive.google.com/file/d/16QL4ASNvyWrWx4_9JbJoTwB60lCCZ186/preview",
-              "actividad": "Define los valores normales de la presión arterial y frecuencia cardíaca."
-            },
-            {
-              "titulo": "Primeros Auxilios2",
-              "video": "https://www.youtube.com/embed/M-BniuLFTkE",
-              "pdf": "https://drive.google.com/file/d/16QL4ASNvyWrWx4_9JbJoTwB60lCCZ186/preview",
-              "actividad": "Explica el protocolo PAS en caso de emergencia."
-            }
-          ]
-        }
-      ]
     }
   ]
 }
