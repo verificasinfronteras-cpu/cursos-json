@@ -60,6 +60,5 @@
         { "nombre_semestre": "Semestre 3", "lecciones": [ { "titulo": "COS3.1", "video": "LINK", "pdf": "LINK", "actividad": "ACT1" }, { "titulo": "COS3.2", "video": "LINK", "pdf": "LINK", "actividad": "ACT2" }, { "titulo": "COS3.3", "video": "LINK", "pdf": "LINK", "actividad": "ACT3" } ] }
       ]
     }
-    }
   ]
 }
