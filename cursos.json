@@ -5,7 +5,7 @@
       "nombre": "Bienvenidos a Corposinfronteras",
       "descripcion": "Recorrido por lo que sera tu futuro academico.",
       "semestres": [
-        { "nombre_semestre": "Semestre 1", "lecciones": [ { "titulo": "BIENVENIDOS", "video": [ "https://www.youtube.com/embed/Sjn37Ow5Uk0", "https://www.youtube.com/embed/OXQkG1ccayo" ], "pdf": "https://drive.google.com/file/d/16QL4ASNvyWrWx4_9JbJoTwB60lCCZ186/preview", "actividad": "ACT2" } ] }
+        { "nombre_semestre": "Semestre 1", "lecciones": [ { "titulo": "Bienvenido", "video": [ "https://www.youtube.com/embed/Sjn37Ow5Uk0", "https://www.youtube.com/embed/OXQkG1ccayo" ], "pdf": "https://drive.google.com/file/d/16QL4ASNvyWrWx4_9JbJoTwB60lCCZ186/preview", "actividad": "ACT2" } ] }
       ]
     },
     {
