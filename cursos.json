@@ -1,6 +1,14 @@
 {
   "carrerastecnicas": [
     {
+      "id": "Bienvenidos",
+      "nombre": "Bienvenidos a Corposinfronteras",
+      "descripcion": "Charla de lo que sera tu estancia dentro de tu carrera de vista a tu Futuro academico.",
+      "semestres": [
+        { "nombre_semestre": "Semestre 1", "lecciones": [ { "titulo": "ENF1.1", "video": "https://www.youtube.com/embed/M-BniuLFTkE", "pdf": "https://drive.google.com/file/d/16QL4ASNvyWrWx4_9JbJoTwB60lCCZ186/preview", "actividad": "ACT1" }, { "titulo": "ENF1.2", "video": "https://www.youtube.com/embed/M-BniuLFTkE", "pdf": "https://drive.google.com/file/d/16QL4ASNvyWrWx4_9JbJoTwB60lCCZ186/preview", "actividad": "ACT2" }, { "titulo": "ENF1.3", "video": "https://www.youtube.com/embed/M-BniuLFTkE", "pdf":"https://drive.google.com/file/d/16QL4ASNvyWrWx4_9JbJoTwB60lCCZ186/preview", "actividad": "ACT3" } ] },
+    ]
+    },
+    {
       "id": "enfermeria",
       "nombre": "Auxiliar en Enfermería",
       "descripcion": "Cuidado básico y asistencia hospitalaria.",
