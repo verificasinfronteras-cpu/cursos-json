@@ -5,7 +5,7 @@
       "nombre": "Bienvenidos a Corposinfronteras",
       "descripcion": "Charla de lo que sera tu rrecorrido dentro de tu carrera de vista a tu Futuro academico.",
       "semestres": [
-        { "nombre_semestre": "Semestre 1", "lecciones": [ { "titulo": "BIEN1.1", "video": "https://www.youtube.com/embed/Sjn37Ow5Uk0", "video": "https://www.youtube.com/embed/OXQkG1ccayo", "pdf": "https://drive.google.com/file/d/16QL4ASNvyWrWx4_9JbJoTwB60lCCZ186/preview", "actividad": "ACT1" } ] }
+        { "nombre_semestre": "Semestre 1", "lecciones": [ { "titulo": "BIEN1.1", "video": [" https://www.youtube.com/embed/Sjn37Ow5Uk0", "https://www.youtube.com/embed/OXQkG1ccayo"],"pdf": "https://drive.google.com/file/d/16QL4ASNvyWrWx4_9JbJoTwB60lCCZ186/preview", "actividad": "ACT1" } ] }
     ]
     },
     {
